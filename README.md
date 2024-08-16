@@ -18,6 +18,7 @@ I'm a Software Engineer with 2+ years of building experience and a strong backgr
 ![Static Badge](https://img.shields.io/badge/css-%231572B6?style=for-the-badge&logo=css3&logoColor=%23000)
 ![Static Badge](https://img.shields.io/badge/sass-%23CC6699?style=for-the-badge&logo=sass&logoColor=%23fff)
 
+ ## Profile Views
 - ![](https://komarev.com/ghpvc/?username=Daniel264)
   ## Github Stats
 - ![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Daniel264&show_icons=true&theme=gruvbox)
