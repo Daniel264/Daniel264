@@ -1,6 +1,12 @@
 ## Hi there 👋
 
-I'm a Software Engineer with 2+ years of building experience and a strong background in frontend (typescript/react.js/tailwind), mobile development (react-native).
+I'm a Software Engineer with 2+ years of building experience and a strong background in frontend (typescript/react.js/tailwind),backend(node.js, express.js, mongodb) and mobile development (react-native).
+
+## Looking for Me?
+![Static Badge](https://img.shields.io/badge/instagram-red?style=for-the-badge&logo=instagram&logoColor=white&link=https%3A%2F%2Fwww.instagram.com%2F_.daniel._fo%2F)
+![Static Badge](https://img.shields.io/badge/twitter-blue?style=for-the-badge&logo=x&logoColor=white&link=https%3A%2F%2Fx.com%2FDanielOlatinsu)
+![Static Badge](https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fdaniel-olatinsu-09415a230%2F)
+
 
 
 ## Tools and Terminologies
@@ -17,6 +23,15 @@ I'm a Software Engineer with 2+ years of building experience and a strong backgr
  ![Static Badge](https://img.shields.io/badge/html-%23E34F26?style=for-the-badge&logo=html5&logoColor=%23fff)
 ![Static Badge](https://img.shields.io/badge/css-%231572B6?style=for-the-badge&logo=css3&logoColor=%23000)
 ![Static Badge](https://img.shields.io/badge/sass-%23CC6699?style=for-the-badge&logo=sass&logoColor=%23fff)
+
+
+![Static Badge](https://img.shields.io/badge/Node.js-blue?style=for-the-badge&logo=node.js&logoColor=white&labelColor=black)
+![Static Badge](https://img.shields.io/badge/express.js-red?style=for-the-badge&logo=express&logoColor=white&labelColor=black)
+![Static Badge](https://img.shields.io/badge/mongodb-green?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=black)
+
+
+![Static Badge](https://img.shields.io/badge/Amazon%20AWS-red?style=for-the-badge&logo=amazon&logoColor=white&labelColor=black)
+
 
  ## Profile Views
 - ![](https://komarev.com/ghpvc/?username=Daniel264)
