@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a Software Engineer with 2+ years of building experience and a strong background in frontend (typescript/react.js/tailwind),backend(node.js, express.js, mongodb) and mobile development (react-native).
+I'm a Software Engineer with 3+ years of building experience and a strong background in frontend (typescript/react.js/tailwind),backend(node.js, express.js, mongodb) and mobile development (react-native).
 
 ## Looking for Me?
 <img alt="Static Badge" src="https://img.shields.io/badge/instagram-red?style=for-the-badge&logo=instagram&logoColor=white&link=https%253A%252F%252Fwww.instagram.com%252F_.daniel._fo%252F">
