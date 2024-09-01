@@ -39,3 +39,5 @@ I'm a Software Engineer with 3+ years of building experience and a strong backgr
 - ![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Daniel264&show_icons=true&theme=gruvbox)
 - ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel264&size_weight=0.5&count_weight=0.5&theme=gruvbox)
 
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Daniel264)](https://git.io/streak-stats)
