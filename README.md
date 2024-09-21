@@ -44,7 +44,4 @@ I'm a Software Engineer with over 3 years of building experience and a strong ba
 - ![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Daniel264&show_icons=true&theme=dark)
 - ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel264&theme=dark&layout=compact)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Daniel264)](https://git.io/streak-stats&theme=dark)
-
-## Stats 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Daniel264&theme=dark&hide_border=true&border_radius=15&background=000807)](https://git.io/streak-stats)
