@@ -31,6 +31,11 @@ I'm a Software Engineer with over 3 years of building experience and a strong ba
 
 
 ![Static Badge](https://img.shields.io/badge/Amazon%20AWS-red?style=for-the-badge&logo=amazon&logoColor=white&labelColor=black)
+![git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![fontawesome](https://img.shields.io/badge/Font_Awesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white)
+![webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white)
+![eslint](https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white)
+![prettier](https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E)
 
 
  ## Profile Views
