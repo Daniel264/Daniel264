@@ -3,7 +3,7 @@
 I'm a Software Engineer with over 3 years of building experience and a strong background in frontend (typescript/react.js/tailwind),backend(typescript/ node.js/ express.js, mongodb)
 
 ## Looking for Me?
-<img alt="Static Badge" src="https://img.shields.io/badge/instagram-red?style=for-the-badge&logo=instagram&logoColor=white&link=https%253A%252F%252Fwww.instagram.com%252F_.daniel._fo%252F">
+<a href="https://www.instagram.com/_.daniel._fo/"><img alt="Static Badge" src="https://img.shields.io/badge/instagram-red?style=for-the-badge&logo=instagram&logoColor=white&link=https%253A%252F%252Fwww.instagram.com%252F_.daniel._fo%252F"></a>
 <img alt="Static Badge" src="https://img.shields.io/badge/twitter-blue?style=for-the-badge&logo=x&logoColor=white&link=https%253A%252F%252Fx.com%252FDanielOlatinsu">
 <img alt="Static Badge" src="https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fdaniel-olatinsu-09415a230%2F">
 
