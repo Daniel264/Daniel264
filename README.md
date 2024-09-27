@@ -42,6 +42,7 @@ I'm a Software Engineer with over 3 years of building experience and a strong ba
 - ![](https://komarev.com/ghpvc/?username=Daniel264)
   ## Github Stats
 - ![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Daniel264&show_icons=true&theme=dark)
+- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Daniel264&include_all_commits&bg_color=#000000&show_icons=true&theme=radical)
 - ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel264&theme=dark&layout=compact)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Daniel264&theme=dark&hide_border=true&border_radius=15&background=000807)](https://git.io/streak-stats)
